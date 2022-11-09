@@ -1,6 +1,12 @@
 <h1 align="center"> Hi, I'm Ryan Nguyen </h1>
 
+<div align="center">
+    <img src="img/rainydaycorgi.gif" alt="gif of a corgi holding a leaf to shelter from rain"/>
+</div>
 
+<p align="center">
+  <a href="https://boo.world/u/cuddle/mfAQ33/rainy-days-the-rain-makes-me-want-to-cuddle-up">Image Source </a>
+</p>
 
 
 <p align="center">
@@ -11,7 +17,7 @@
 
 I am a second-year Informatics undergraduate student at the [University of Washington](https://www.washington.edu/)
 
-
+- Currently interested in anything programming and design based
 
 <h2>Contact Me:</h2>
 <a href="https://www.linkedin.com/in/ryan-nguyen-62b899208/">
