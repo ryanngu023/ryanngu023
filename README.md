@@ -35,4 +35,4 @@ I am a second-year Informatics undergraduate student at the [University of Washi
   
 &nbsp;
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ryanngu023&count_private=true&show_icons=true&theme=tokyonight" alt="Ryan Nguyen's Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanngu023&count_private=true&show_icons=true&theme=tokyonight" alt="Ryan Nguyen's Github Stats" width="100%"/>
