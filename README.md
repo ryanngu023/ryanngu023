@@ -7,11 +7,11 @@
 
 ### About Me!
 
-I am a second-year Informatics undergraduate student at the [University of Washington](https://www.washington.edu/)
+I am a second-year Informatics student at the [University of Washington](https://www.washington.edu/)
 
-- Currently interested in anything programming and design based
-- Learning Data Structures and Algorithms
-- Finding a Python Project to strengthen skills
+- Interested in anything programming and design based 👍
+- Learning Data Structures and Algorithms 🙃
+- Finding a Python Project to strengthen skills 🤓
 - Languages:
     - Java
     - HTML/CSS
@@ -19,6 +19,7 @@ I am a second-year Informatics undergraduate student at the [University of Washi
     - React
     - R
     - Figma
+- Feel free to chat with me on anything! 🥐 🎮 ♟
 
 
 
@@ -35,6 +36,6 @@ I am a second-year Informatics undergraduate student at the [University of Washi
   
 &nbsp;
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanngu023&count_private=true&show_icons=true&theme=tokyonight" alt="Ryan Nguyen's Github Stats" width="50%"/>
-</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ryanngu023&count_private=true&show_icons=true&theme=tokyonight" alt="Ryan Nguyen's Github Stats" />
+
