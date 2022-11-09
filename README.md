@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @ryanngu023
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center"> Hi, I'm Ryan Nguyen </h1>
 
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanngu023)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-ryanngu023/ryanngu023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanngu023&count_private=true&show_icons=true&theme=tokyonight" alt="Ryan Nguyen's Github Stats"/>
+</p>
+
+<h2>About Me!</h2>
+
+I am a second-year Informatics undergraduate student at the [University of Washington](https://www.washington.edu/)
+
+
+
+<h2>Contact Me:</h2>
+<a href="https://www.linkedin.com/in/ryan-nguyen-62b899208/">
+    <img align="left" alt="Ryan Nguyen's Linkedin page" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ryannmq/">
+    <img align="left" alt="Ryan Nguyen's Instagram page" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:ryannguyen10023@gmail.com">
+    <img align="left" alt="Ryan Nguyen's email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
