@@ -10,15 +10,19 @@
 I am an Informatics student at the [University of Washington](https://www.washington.edu/)
 
 - Interested in both programming and design 👍
-- Learning Data Structures and Algorithms 🙃
-- Working on a Python Project to solidify skills 🤓
+- Learning new technologies and frameworks 🙃
+- Working on several projects, set to release to the public soon! 🤓
 - Feel free to chat with me on anything! 🥐 🎮 ♟
 
 
 ### My Languages and Skills
  - Java
  - HTML/CSS
- - JavaScript
+ - JavaScript/TypeScript
+ - Python
+ - C/C++
+ - Bash
+ - Git
  - React
  - R
  - Figma
@@ -36,7 +40,5 @@ I am an Informatics student at the [University of Washington](https://www.washin
     <img align="left" alt="Ryan Nguyen's email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
   
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ryanngu023&count_private=true&show_icons=true&theme=tokyonight" alt="Ryan Nguyen's Github Stats" />
 
 
